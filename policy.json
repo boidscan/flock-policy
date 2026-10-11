@@ -1,0 +1,31 @@
+{
+  "chain": [
+    {
+      "policy": {
+        "serial": 1,
+        "issued": "2026-10-11T12:10:28Z",
+        "expires": "2026-10-25T12:10:28Z",
+        "pause": true,
+        "min_version": "v0.0.3",
+        "max_rate_pps": 10000,
+        "min_rescan": "168h0m0s",
+        "bump_interval": "24h0m0s",
+        "catalog": "a3baef084bba49b7c116d6c238b407327fcfd1a6fc04131653e7fda7b619db52",
+        "revoked_nodes": [],
+        "seeds": [],
+        "maintainers": {
+          "keys": [
+            "p7pq44zppib4uviomfk4nqonpx4wdtlf5mtaiqevbzm2p2t2mhfq"
+          ],
+          "threshold": 1
+        }
+      },
+      "signatures": [
+        {
+          "key": "p7pq44zppib4uviomfk4nqonpx4wdtlf5mtaiqevbzm2p2t2mhfq",
+          "sig": "2mhVgUcA907OTXr5qvrBq9tk7zfxRADZ+h8W4pik9LU5tX9FLkqWCdMXslf6w85UH5dO3b1HPBJzM/N55SPVCw=="
+        }
+      ]
+    }
+  ]
+}
