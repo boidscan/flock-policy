@@ -6,7 +6,7 @@ Every boid follows the newest policy signed by enough maintainers. A boid withou
 
 ## Current state
 
-Policy 1 pauses the flock. Boidscan runs only in closed test flocks for now, and no public seed is published.
+Policy 2 lifts the pause. Boids at v0.0.3 or newer sweep, and the first seed is `http://157.180.95.126`.
 
 ## What is here
 

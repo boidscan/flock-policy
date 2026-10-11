@@ -26,6 +26,35 @@
           "sig": "2mhVgUcA907OTXr5qvrBq9tk7zfxRADZ+h8W4pik9LU5tX9FLkqWCdMXslf6w85UH5dO3b1HPBJzM/N55SPVCw=="
         }
       ]
+    },
+    {
+      "policy": {
+        "serial": 2,
+        "issued": "2026-10-11T17:54:10Z",
+        "expires": "2026-10-25T17:54:10Z",
+        "pause": false,
+        "min_version": "v0.0.3",
+        "max_rate_pps": 10000,
+        "min_rescan": "168h0m0s",
+        "bump_interval": "24h0m0s",
+        "catalog": "0be1ee95bcbdb2e0833cb5f1ee9fe6e38ed6619b2d8b6ebee807f1d331caae42",
+        "revoked_nodes": [],
+        "seeds": [
+          "http://157.180.95.126"
+        ],
+        "maintainers": {
+          "keys": [
+            "p7pq44zppib4uviomfk4nqonpx4wdtlf5mtaiqevbzm2p2t2mhfq"
+          ],
+          "threshold": 1
+        }
+      },
+      "signatures": [
+        {
+          "key": "p7pq44zppib4uviomfk4nqonpx4wdtlf5mtaiqevbzm2p2t2mhfq",
+          "sig": "wBbSOkoRgJbU64chWNvJ5yBrupy7SJLXuBCE+3APYA+Gzs+U5UIv4IWWIKzrOLIB3Bko/urtbHFDbsc1nLCAAw=="
+        }
+      ]
     }
   ]
 }
