@@ -1,0 +1,29 @@
+{
+  "policy": {
+    "serial": 3,
+    "issued": "2026-10-12T21:53:53Z",
+    "expires": "2026-10-26T21:53:53Z",
+    "pause": false,
+    "min_version": "v0.0.4",
+    "max_rate_pps": 10000,
+    "min_rescan": "168h0m0s",
+    "bump_interval": "24h0m0s",
+    "catalog": "0be1ee95bcbdb2e0833cb5f1ee9fe6e38ed6619b2d8b6ebee807f1d331caae42",
+    "revoked_nodes": [],
+    "seeds": [
+      "http://194.48.248.55"
+    ],
+    "maintainers": {
+      "keys": [
+        "p7pq44zppib4uviomfk4nqonpx4wdtlf5mtaiqevbzm2p2t2mhfq"
+      ],
+      "threshold": 1
+    }
+  },
+  "signatures": [
+    {
+      "key": "p7pq44zppib4uviomfk4nqonpx4wdtlf5mtaiqevbzm2p2t2mhfq",
+      "sig": "hdKNsKUhcUsgYq6uCQh/Da1L5FbyF9cF5SJKeu0lk8ZltsPFLaE5vJgxs644Wk+a+X31A1En0bqJ8npVzFm4Bw=="
+    }
+  ]
+}
